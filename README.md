@@ -1,5 +1,5 @@
 # Simple-Neural-Network
-A simple neural network, which determines the probability of an event based on some other. In this case, the probability of a student going out on the street when several factors are combined (exams are taking place, friends are calling for a walk, the student is ill, etc). You can change the number of runs the training speed.
+A simple neural network, which determines the probability of an event based on some other. In this case, the probability of a student going out on the street when several factors are combined (exams are taking place, friends are calling for a walk, the student is ill, etc). You can change the number of runs, the training speed.
 
 
 STEPS
